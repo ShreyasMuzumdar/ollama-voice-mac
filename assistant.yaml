@@ -9,7 +9,7 @@ whisperRecognition:
 
 ollama:
   url: "http://localhost:11434/api/generate"
-  model: "mistral"
+  model: "deepseek-r1"
 
 conversation:
   greeting: "Hi, how can I help you?"
