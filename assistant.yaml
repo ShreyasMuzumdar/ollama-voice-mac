@@ -12,4 +12,4 @@ ollama:
   model: "deepseek-r1"
 
 conversation:
-  greeting: "Hi, how can I help you?"
+  greeting: "Hi,I am your personal assistant how can I help you?"
