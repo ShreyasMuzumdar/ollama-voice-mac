@@ -12,4 +12,4 @@ ollama:
   model: "deepseek-r1"
 
 conversation:
-  greeting: "Hi,my name is Shreyas and I am kidnapped by the CCP. How can I help you?"
+  greeting: "Hi, my name is Shreyas and I am kidnapped by the CCP. How can I help you?"
