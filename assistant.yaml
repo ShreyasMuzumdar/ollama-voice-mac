@@ -9,7 +9,7 @@ whisperRecognition:
 
 ollama:
   url: "http://localhost:11434/api/generate"
-  model: "deepseek-r1"
+  model: "llama3.2"
 
 conversation:
   greeting: "Hi, my name is Shreyas and I am kidnapped by the CCP. How can I help you?"
