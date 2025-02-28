@@ -2,6 +2,7 @@ messages:
   pressSpace: "Press and hold space to speak"
   loadingModel: "Loading..."
   noAudioInput: "Error: No sound input!"
+  listeningForWakeWord: "Listening for wake word..."  # Add this line
 
 whisperRecognition:
   modelPath: "whisper/base.en.pt"
